@@ -1,5 +1,5 @@
 # npProject
-Type of challenge: **Solo Work*  
+Type of challenge: **Solo Work**
 Duration : **1 Month**   
 
 
