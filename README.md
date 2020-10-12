@@ -32,6 +32,8 @@ Initial repo link : [ICI](https://github.com/becodeorg/BXL-Swartz-3-21/tree/mast
 
 ## Screenshots de l'évolution du projet
 
-![]()
+![Main page](/assets/News1.JPG)
+![Login page](/assets/news2.JPG)
+![Register page](/assets/news3.JPG)
 
 Lien de la présentation : 
