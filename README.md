@@ -29,6 +29,7 @@ Initial repo link : [ICI](https://github.com/becodeorg/BXL-Swartz-3-21/tree/mast
 ## Project progress
 
 * 12/10/2020 : creation of the repo, creation of the readme, launch of the trello, figma layout phase and interesting API research.
+* 12/10/2020 : creation of the logo, API found , Beginning of the frontend (Bootstrap & css).
 
 ## Screenshots de l'évolution du projet
 
