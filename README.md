@@ -1,7 +1,8 @@
 # npProject
 Type of challenge: **Solo Work**
+
 Duration : **1 Month**   
-// BOUBBOULA 
+
 
 # **Welcome to my actuality website project.**  
 
