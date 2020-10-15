@@ -1,8 +1,7 @@
 # npProject
 Type of challenge: **Solo Work**
 Duration : **1 Month**   
-
-
+// BOUBBOULA 
 
 # **Welcome to my actuality website project.**  
 
@@ -13,7 +12,7 @@ This project aims to test our new knowledge in Nodejs as well as to review the b
 
 The challenge is to create a news website containing at least one API.
 
-
+BOUBOULOU
 Initial repo link : [ICI](https://github.com/becodeorg/BXL-Swartz-3-21/tree/master/09-OOP-npProject).
 
 ## Languages  Used
@@ -27,7 +26,7 @@ Initial repo link : [ICI](https://github.com/becodeorg/BXL-Swartz-3-21/tree/mast
 * Bootstrap 4
 
 ## Project progress
-
+BOUBOUBI
 * 12/10/2020 : creation of the repo, creation of the readme, launch of the trello, figma layout phase and interesting API research.
 * 12/10/2020 : creation of the logo, API found , Beginning of the frontend (Bootstrap & css).
 
