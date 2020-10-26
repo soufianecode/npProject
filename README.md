@@ -32,6 +32,7 @@ BOUBOUBI
 * 13/10/2020 : creation of the logo, API found , Beginning of the frontend (Bootstrap & css).
 * 14/10/2020 : creation of rhe register and log-in page,research on the implementation of an API.
 * 15/10/2020 : change on css files, creation of a session with nodejs and research on the implementation of an API.
+* 26/10/2020 : research on the implementation of an API.
 
 ## Screenshots de l'évolution du projet
 
