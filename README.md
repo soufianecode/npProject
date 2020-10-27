@@ -33,6 +33,7 @@ BOUBOUBI
 * 14/10/2020 : creation of rhe register and log-in page,research on the implementation of an API.
 * 15/10/2020 : change on css files, creation of a session with nodejs and research on the implementation of an API.
 * 26/10/2020 : research on the implementation of an API.
+* 27/10/2020 : test on implementation of an API with JS.
 
 ## Screenshots de l'évolution du projet
 
