@@ -13,7 +13,7 @@ This project aims to test our new knowledge in Nodejs as well as to review the b
 
 The challenge is to create a news website containing at least one API.
 
-BOUBOULOU
+
 Initial repo link : [ICI](https://github.com/becodeorg/BXL-Swartz-3-21/tree/master/09-OOP-npProject).
 
 ## Languages  Used
@@ -34,6 +34,7 @@ BOUBOUBI
 * 15/10/2020 : change on css files, creation of a session with nodejs and research on the implementation of an API.
 * 26/10/2020 : research on the implementation of an API.
 * 27/10/2020 : test on implementation of an API with JS.
+* 28/10/2020 : finding a viable api and testing too implement it on the current project (Manga enden).
 
 ## Screenshots de l'évolution du projet
 
