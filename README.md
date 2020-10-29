@@ -35,6 +35,7 @@ BOUBOUBI
 * 26/10/2020 : research on the implementation of an API.
 * 27/10/2020 : test on implementation of an API with JS.
 * 28/10/2020 : finding a viable api and testing too implement it on the current project (Manga enden).
+* 29/10/2020 : working on authentification system and mvc.
 
 ## Screenshots de l'évolution du projet
 
