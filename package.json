@@ -2,7 +2,7 @@
   "name": "npproject",
   "version": "1.0.0",
   "description": "Type of challenge: **Solo Work**\r Duration : **1 Month**   \r // BOUBBOULA",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "devStart": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
