@@ -36,7 +36,8 @@ BOUBOUBI
 * 27/10/2020 : test on implementation of an API with JS.
 * 28/10/2020 : finding a viable api and testing too implement it on the current project (Manga enden).
 * 29/10/2020 : working on authentification system and mvc.
-*02/11/2020 : fixing css bug , connecting to Mongodb database and working on authentification system.
+* 02/11/2020 : fixing css bug , connecting to Mongodb database and working on authentification system.
+* 03/11/2020 : creating routes for authentification and testing post request
 
 ## Screenshots de l'évolution du projet
 
