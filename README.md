@@ -38,6 +38,7 @@ BOUBOUBI
 * 29/10/2020 : working on authentification system and mvc.
 * 02/11/2020 : fixing css bug , connecting to Mongodb database and working on authentification system.
 * 03/11/2020 : creating routes for authentification and testing post request
+* 04/11/2020 : User model + mangoose validation
 
 ## Screenshots de l'évolution du projet
 
