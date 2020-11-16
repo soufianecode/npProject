@@ -27,7 +27,7 @@ Initial repo link : [ICI](https://github.com/becodeorg/BXL-Swartz-3-21/tree/mast
 * Bootstrap 4
 
 ## Project progress
-BOUBOUBI
+
 * 12/10/2020 : creation of the repo, creation of the readme, launch of the trello, figma layout phase and interesting API research.
 * 13/10/2020 : creation of the logo, API found , Beginning of the frontend (Bootstrap & css).
 * 14/10/2020 : creation of rhe register and log-in page,research on the implementation of an API.

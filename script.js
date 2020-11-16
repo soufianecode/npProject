@@ -12,3 +12,5 @@
 // $.ajax(settings).done(function (response) {
 // 	console.log(response);
 // });
+
+alert("hi");

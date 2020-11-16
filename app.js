@@ -3,6 +3,7 @@
 const express = require('express');
 const mongoose = require('mongoose');
 const authRoutes = require('./routes/authRoutes')
+const cookieParser = require('cookie-Parser');
 
 const app = express();
 
@@ -11,6 +12,7 @@ const app = express();
 
 app.use(express.static('public'));
 app.use(express.json());
+app.use(cookieParser());
 
 // lecture de fichier ejs
 
@@ -30,6 +32,8 @@ mongoose.connect(dbURI, {useNewUrlParser: true, useUnifiedTopology: true , useCr
 //routes
 
 app.get('/', (req,res) => res.render('index'));
-app.get('/log-in', (req,res) => res.render('log-in'));
+app.get('/login', (req,res) => res.render('login'));
 app.get('/register', (req,res) => res.render('register'));
+app.get('/content', (req,res) => res.render('content'));
 app.use(authRoutes);
+
