@@ -38,15 +38,19 @@
     </div>
 
     <form>
-        <h2>Login</h2>
+        <h2 class='formTitle'>Login</h2>
         <label for="email">Email</label>
-        <input type="text" value="1@gmail.com" name="email" required />
+        <br>
+        <input class='inputForm' type="text" value="1@gmail.com" name="email" required />
         <div class="email error"></div>
         <label for="password">password</label>
-        <input type="password" value='test123' name="password" required />
+        <br>
+        <input class='inputForm' type="password" value='test123' name="password" required />
         <div class="password error"></div>
-        <button>Login</button>
+        <button class='buttonForm'>Login</button>
     </form>
+
+    <%- include('partials/footer'); -%>
 
 
 
