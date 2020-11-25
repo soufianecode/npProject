@@ -39,6 +39,9 @@ Initial repo link : [ICI](https://github.com/becodeorg/BXL-Swartz-3-21/tree/mast
 * 02/11/2020 : fixing css bug , connecting to Mongodb database and working on authentification system.
 * 03/11/2020 : creating routes for authentification and testing post request
 * 04/11/2020 : User model + mangoose validation
+* 17/11/2020 : implement API in the project.
+* 20/11/2020 : display the main page using the API's data with manipulation DOM.
+
 
 ## Screenshots de l'évolution du projet
 
