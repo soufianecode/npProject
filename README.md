@@ -24,7 +24,6 @@ Initial repo link : [ICI](https://github.com/becodeorg/BXL-Swartz-3-21/tree/mast
 * Nodejs
 * Mongodb
 * JS
-* Bootstrap 4
 
 ## Framework
 
