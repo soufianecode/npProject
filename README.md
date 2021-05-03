@@ -13,8 +13,9 @@ This project aims to test our new knowledge in Nodejs as well as to review the b
 
 The challenge is to create a news website containing at least one API.
 
-link of site : https://soufianecode.github.io/npProject/
+
 Initial repo link : [ICI](https://github.com/becodeorg/BXL-Swartz-3-21/tree/master/09-OOP-npProject).
+link of site : [ICI](https://soufianecode.github.io/npProject/)
 
 ## Languages  Used
 
