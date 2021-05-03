@@ -1,0 +1,139 @@
+body {
+    background-color: #1B1E20;
+    color: white;
+    height: 100%;
+}
+
+.jumbotron {
+    display: flex;
+    justify-content: space-evenly;
+    height: 150px;
+    background-color: black;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: white;
+}
+
+.logo {
+    height: 130px;
+    margin-top: -50px;
+}
+
+.navbar-button {
+    background: white;
+}
+
+.search-bar {
+    width: 300px;
+}
+
+.formulaire {
+    height: 400px;
+}
+
+form {
+    display: block;
+    margin-top: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    background-color: #969595;
+    padding: 30px;
+    border-radius: 30px;
+    height: 20rem;
+}
+
+.buttonForm {
+    margin-top: 2rem;
+    border-radius: 15px;
+    height: 3rem;
+    width: 34%;
+    margin-left: 33%;
+    margin-right: 33%
+    
+}
+
+.inputForm {
+    width: 100%;
+}
+
+.formTitle {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn-primary {
+    display: block;
+    background-color: #A70000;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+
+}
+
+/* footer */
+footer {
+    background-color: black;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    height: 15%;
+}
+
+/* style of auto generate code */
+
+.para {
+    display: flex;
+    width: 90%;
+    margin-left: 2rem;
+    height: 70%;
+}
+
+.titleElement {
+    display: flex;
+    width: 90%;
+    margin-left: 2rem;
+    height: 30%;
+}
+
+.imgElement {
+    height: 100%;
+    width: 40%;
+}
+
+.cardContent {
+    display: flex;
+    width: 80%;
+    height: 20rem;
+    /* justify-content: center; */
+    margin-bottom: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+.containerGenerate {
+    display: flex;
+    width: 60%;
+    flex-direction: column;
+}
+
+.randomArticleElement {
+    display: flex;
+
+}
+
+.imgElement {
+    display: flex;
+    border-bottom-left-radius: 1rem;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+}
