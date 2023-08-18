@@ -39,7 +39,7 @@ link of site : [ICI](https://soufianecode.github.io/npProject/)
 * 15/10/2020 : change on css files, creation of a session with nodejs and research on the implementation of an API.
 * 26/10/2020 : research on the implementation of an API.
 * 27/10/2020 : test on implementation of an API with JS.
-* 28/10/2020 : finding a viable api and testing too implement it on the current project (Manga enden).
+* 28/10/2020 : finding a viable api and testing too implement it on the current project.
 * 29/10/2020 : working on authentification system and mvc.
 * 02/11/2020 : fixing css bug , connecting to Mongodb database and working on authentification system.
 * 03/11/2020 : creating routes for authentification and testing post request
